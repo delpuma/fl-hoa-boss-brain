@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "functions": {
+    "api/ingest_pdf.py": {
+      "runtime": "python3.9",
+      "maxDuration": 120,
+      "memory": 1024
+    }
+  }
+}

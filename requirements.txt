@@ -1,0 +1,4 @@
+openai==1.30
+pinecone-client==4.1
+pypdf==4.2              # pure‑python PDF parser (no binaries needed)
+
